@@ -25,6 +25,11 @@
             <artifactId>jetty-client</artifactId>
             <version>9.4.6.v20170531</version>
         </dependency>
+        <dependency>
+            <groupId>org.rapidoid</groupId>
+            <artifactId>rapidoid-quick</artifactId>
+            <version>5.4.4</version>
+        </dependency>
     </dependencies>
     <build>
         <plugins>
